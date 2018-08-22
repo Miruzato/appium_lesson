@@ -47,6 +47,8 @@ public class SimpleTest {
         assertEquals("musha@gmail.com", emailData);
         driver.findElement(By.id("buttonRegisterUser")).click();
 
+
+
     }
 
     public void chooseProgrammingLanguage(String textValue) {
